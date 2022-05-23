@@ -1,0 +1,7 @@
+G:\INN2020-2022OFFLINE\Csharp\EventTesting\EventTesting\obj\Debug\EventTesting.csproj.AssemblyReference.cache
+G:\INN2020-2022OFFLINE\Csharp\EventTesting\EventTesting\obj\Debug\EventTesting.csproj.SuggestedBindingRedirects.cache
+G:\INN2020-2022OFFLINE\Csharp\EventTesting\EventTesting\obj\Debug\EventTesting.csproj.CoreCompileInputs.cache
+G:\INN2020-2022OFFLINE\Csharp\EventTesting\EventTesting\bin\Debug\EventTesting.exe
+G:\INN2020-2022OFFLINE\Csharp\EventTesting\EventTesting\bin\Debug\EventTesting.pdb
+G:\INN2020-2022OFFLINE\Csharp\EventTesting\EventTesting\obj\Debug\EventTesting.exe
+G:\INN2020-2022OFFLINE\Csharp\EventTesting\EventTesting\obj\Debug\EventTesting.pdb
